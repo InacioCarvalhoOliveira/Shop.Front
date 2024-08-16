@@ -1,3 +1,6 @@
+using System.Net;
+using Microsoft.AspNetCore.Builder;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -20,8 +23,16 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.UseEndpoints(endpoints =>
+{
+    //_ = app.MapDefaultControllerRoute( );
+
+     _ = endpoints.MapControllerRoute(
+         name: "default",
+         pattern: "{controller=Login}/{action=Login}");
+ 
+    _ = endpoints.MapControllers();
+});
 
 app.Run();
