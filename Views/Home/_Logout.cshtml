@@ -1,12 +1,5 @@
-﻿@{
-  ViewData["Title"] = "Home Page";
-}
-
-<div class="text-center">
-  <h1 class="display-4">Welcome</h1>
-  <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
-@Html.Partial("_Logout")
+@{}
+<button id="logout" type="submit" class="btn btn-danger btn-block mb-4">Sair</button>
 
 <script type="module">
   import { Input, Tab, Ripple, initMDB } from "/js/mdb.es.min.js"
@@ -14,7 +7,6 @@
 </script>
 <!-- Include the script that will handle the form submission -->
 <script src="~/js/logout.session.js" asp-append-version="true"></script>
-@* <script src="~/js/logout.session.js" asp-append-version="true"></script> *@
 
 <!-- Include SweetAlert2 CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">

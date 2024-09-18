@@ -1,102 +1,78 @@
-﻿@*
-For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
-<div class="container" style="border-left-style: solid;padding-left: 30%;padding-right: 25%;border-left-width: 0px;padding-top: 4%;">
-<!-- Pills navs -->
-<ul class="nav nav-pills nav-justified mb-3" id="ex1" role="tablist">
-  <li class="nav-item" role="presentation">
-    <a
-      class="nav-link active"
-      id="tab-login"
-      data-mdb-pill-init
-      href="#pills-login"
-      role="tab"
-      aria-controls="pills-login"
-      aria-selected="true"
-      >Login</a
-    >
-  </li>
-  <li class="nav-item" role="presentation">
-    <a
-      class="nav-link"
-      id="tab-register"
-      data-mdb-pill-init
-      href="#pills-register"
-      role="tab"
-      aria-controls="pills-register"
-      aria-selected="false"
-      >Register</a
-    >
-  </li>
-</ul>
-<!-- Pills navs -->
+﻿@{}
+<div class="container"
+  style="border-left-style: solid;padding-left: 30%;padding-right: 25%;border-left-width: 0px;padding-top: 4%;">
+  <!-- Pills navs -->
+  <ul class="nav nav-pills nav-justified mb-3" id="ex1" role="tablist">
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" id="tab-login" data-mdb-pill-init href="#pills-login" role="tab"
+        aria-controls="pills-login" aria-selected="true">Login</a>
+    </li>
+    <li class="nav-item" role="presentation">
+      <a class="nav-link" id="tab-register" data-mdb-pill-init href="#pills-register" role="tab"
+        aria-controls="pills-register" aria-selected="false">Register</a>
+    </li>
+  </ul>
+  <!-- Pills navs -->
 
-<!-- Pills content -->
-<div class="tab-content">
-  <div
-    class="tab-pane fade show active"
-    id="pills-login"
-    role="tabpanel"
-    aria-labelledby="tab-login"
-  >
-    <form>   
-      <!-- Name input -->
-      <div data-mdb-input-init class="form-outline mb-4">
-        <input type="text" id="registerName" class="form-control" />
-        <label class="form-label" for="registerName">Name</label>
-      </div>
+  <!-- Pills content -->
+  <div class="tab-content">
+    <div class="tab-pane fade show active" id="pills-login" role="tabpanel" aria-labelledby="tab-login">
+      <form id="loginForm">
+        <!-- Name input -->
+        <div data-mdb-input-init class="form-outline mb-4">
+          <label class="form-label" for="registerName">Name</label>
+          @* @Html.EditorFor(model => model.Username , new { htmlAttributes = new { @class = "form-control",@id = "loginName", @placeHolder = "Nome do usuário..." } }) *@
+          <input type="text" id="loginName" class="form-control" placeHolder="Nome do usuário..." required /> 
+        </div>
+        <!-- Password input -->
+        <div data-mdb-input-init class="form-outline mb-4">
+          <label class="form-label" for="registerPassword">Password</label>
+          @* @Html.EditorFor(model => model.Password , new { htmlAttributes = new { @class = "form-control",@type="password", @id = "loginPassword", @placeHolder = "Senha Cadastrada..." } }) *@
+          <input type="password" id="loginPassword" class="form-control" placeHolder="Senha Cadastrada..." required />
+        </div>
+        <!-- 2 column grid layout -->
+        <div class="row mb-4">
+          <div class="col-md-6 d-flex justify-content-center">
+          </div>
+        </div>
+        <!-- Submit button -->
+        <button type="submit" class="btn btn-primary btn-block mb-4">Sign in</button>
+      </form>
+    </div>
+    <div class="tab-pane fade" id="pills-register" role="tabpanel" aria-labelledby="tab-register">
+      <form id="registerForm">
+        <!-- Name input -->
+        <div data-mdb-input-init class="form-outline mb-4">
+          <label class="form-label" for="registerName">Name</label>
+          <input type="text" id="registerName" class="form-control" placeHolder="Nome do usuário..." required />
+        </div>
 
-      <!-- Password input -->
-      <div data-mdb-input-init class="form-outline mb-4">
-        <input type="password" id="registerPassword" class="form-control" />
-        <label class="form-label" for="registerPassword">Password</label>
-      </div>
+        <!-- Password input -->
+        <div data-mdb-input-init class="form-outline mb-4">
+          <label class="form-label" for="registerPassword">Password</label>
+          <input type="password" id="registerPassword" class="form-control" minlength="8" maxlength="15" required />
+        </div>
 
-      <!-- 2 column grid layout -->
-      <div class="row mb-4">
-        <div class="col-md-6 d-flex justify-content-center">          
-        </div>       
-      </div>
-
-      <!-- Submit button -->
-      <button type="submit" class="btn btn-primary btn-block mb-4">Sign in</button> 
-    </form>
+        <!-- Repeat Password input -->
+        <div data-mdb-input-init class="form-outline mb-4">
+          <label class="form-label" for="registerRepeatPassword">Repeat password</label>
+          <input type="password" id="registerRepeatPassword" class="form-control" minlength="8" maxlength="15"
+            required />
+        </div>
+        <!-- Submit button -->
+        <button type="submit" class="btn btn-primary btn-block mb-4">Sign in</button>
+      </form>
+    </div>
   </div>
-  <div
-    class="tab-pane fade"
-    id="pills-register"
-    role="tabpanel"
-    aria-labelledby="tab-register"
-  >
-    <form>
-      <!-- Name input -->
-      <div data-mdb-input-init class="form-outline mb-4">
-        <input type="text" id="registerName" class="form-control" />
-        <label class="form-label" for="registerName">Name</label>
-      </div>
-
-      <!-- Password input -->
-      <div data-mdb-input-init class="form-outline mb-4">
-        <input type="password" id="registerPassword" class="form-control" />
-        <label class="form-label" for="registerPassword">Password</label>
-      </div>
-
-      <!-- Repeat Password input -->
-      <div data-mdb-input-init class="form-outline mb-4">
-        <input type="password" id="registerRepeatPassword" class="form-control" />
-        <label class="form-label" for="registerRepeatPassword">Repeat password</label>
-      </div>
-
-       <!-- Submit button -->
-      <button type="submit" class="btn btn-primary btn-block mb-4">Sign in</button> 
-    </form>
-  </div>
-</div>
 </div>
 
 <script type="module">
-    import { Input, Tab, Ripple, initMDB } from "/js/mdb.es.min.js"
-    initMDB({ Input, Tab, Ripple });
+  import { Input, Tab, Ripple, initMDB } from "/js/mdb.es.min.js"
+  initMDB({ Input, Tab, Ripple });
 </script>
+<!-- Include the script that will handle the form submission -->
+<script src="~/js/login.session.js" asp-append-version="true"></script>
+<!-- Include SweetAlert2 CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+<!-- Include SweetAlert2 JS -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
