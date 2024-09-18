@@ -1,3 +1,6 @@
 Shop.Front/Middleware
 Shop.Front/obj
 Shop.Front/bin
+Middleware/private-key.pem
+Middleware/certificate.pem
+Middleware/certificate.csr
