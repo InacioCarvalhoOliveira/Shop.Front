@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Localization;
 using Shop.Front.Models;
 
 namespace Shop.Front.Controllers;
@@ -12,7 +13,12 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
+    // LoginController loginController = new LoginController();
 
+    // public IActionResult Logout()
+    // {
+    //     return View(loginController.Logout);
+    // }
     public IActionResult Index()
     {
         return View();

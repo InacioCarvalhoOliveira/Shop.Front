@@ -10,5 +10,9 @@ namespace Shop.Front
         {
             return View();
         }
+        // public ViewResult Logout()
+        // {
+        //     return View();
+        // }
     }
 }
