@@ -26,6 +26,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Views/Home/_Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9fTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Views/Partial/_TestPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydGlhbC9fVGVzdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
