@@ -9,7 +9,7 @@ app.use(
   cors({
     origin: 'http://localhost:5039', // Allow the frontend to connect to this server
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
-    allowedHeaders: ['Content-Type'],
+    allowedHeaders: ['Content-Type','Authorization'],
     credentials: false,
     optionsSuccessStatus: 200,
   })
