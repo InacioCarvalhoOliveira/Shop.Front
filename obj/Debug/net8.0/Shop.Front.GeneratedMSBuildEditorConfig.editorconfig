@@ -46,6 +46,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Views/User/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Qcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Views/User/_Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9fQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
