@@ -1,0 +1,79 @@
+@{
+  ViewData["Title"] = "Adicione um produto";
+}
+<div class="container"
+  style="border-left-style: solid; padding-left: 30%; padding-right: 25%; border-left-width: 0px; padding-top: 4%;">
+  <h1 style="text-align: center; padding-bottom: 15px;">@ViewData["Title"]</h1>
+
+  <ul class="nav nav-pills nav-justified mb-3" id="ex1" role="tablist">
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" id="tab-register" data-mdb-pill-init href="#pills-register" role="tab"
+        aria-controls="pills-register" aria-selected="true">Cadastrar Produto</a>
+    </li>
+    <li class="nav-item" role="presentation">
+      <a class="nav-link" id="tab-list" data-mdb-pill-init href="#pills-list" role="tab" aria-controls="pills-list"
+        aria-selected="false">Lista de Produtos</a>
+    </li>
+  </ul>
+
+  <!-- Pills content -->
+  <div class="tab-content">
+    <div class="tab-pane fade show active" id="pills-register" role="tabpanel" aria-labelledby="tab-register">
+      <form id="postProductForm">
+        <div class="form-outline mb-3" data-mdb-input-init>
+          <label class="form-label" for="form16">Nome do Produto</label>
+          <input type="text" id="productName" class="form-control" data-mdb-showcounter="true" maxlength="20"
+            required />
+          <div class="form-helper"></div>
+        </div>
+
+        <div class="form-outline mb-3" data-mdb-input-init>
+          <label class="form-label" for="textAreaExample">Descrição</label>
+          <textarea class="form-control" id="productDescription" rows="4" required></textarea>
+        </div>
+
+        <div class="input-group mb-3">
+          <span class="input-group-text">Preço</span>
+          <input type="number" class="form-control" id="productPrice" aria-label="Amount" step="0.01" required />
+          <span class="input-group-text">.00</span>
+        </div>
+
+        <div class="input-group mb-3">
+          <span class="input-group-text">Categoria</span>
+          <input type="text" class="form-control" id="productCategory" placeholder="Digite a categoria"
+            aria-label="Server" required />
+        </div>
+        <ul id="categoryList"></ul>
+
+        <button type="submit" class="btn btn-primary btn-block mb-4">Cadastrar</button>
+      </form>
+    </div>
+
+    <div class="tab-pane fade" id="pills-list" role="tabpanel" aria-labelledby="tab-list">
+      <table class="table" id="productTable">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Category</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      </table>
+      <p id="noProductsMessage" style="display: none;">No products found.</p>
+    </div>
+  </div>
+</div>
+
+<script type="module">
+  import { Input, Tab, Ripple, initMDB } from "/js/mdb.es.min.js";
+  initMDB({ Input, Tab, Ripple });
+</script>
+
+<script type="module" src="~/js/auth.session.js" asp-append-version="true"></script>
+<script type="module" src="~/js/product.session.js" asp-append-version="true"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
