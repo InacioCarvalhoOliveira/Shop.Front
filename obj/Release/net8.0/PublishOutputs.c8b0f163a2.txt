@@ -1,0 +1,9 @@
+/app/publish/Shop.Front
+/app/publish/appsettings.Development.json
+/app/publish/appsettings.json
+/app/publish/package-lock.json
+/app/publish/package.json
+/app/publish/Shop.Front.dll
+/app/publish/Shop.Front.deps.json
+/app/publish/Shop.Front.runtimeconfig.json
+/app/publish/Shop.Front.pdb

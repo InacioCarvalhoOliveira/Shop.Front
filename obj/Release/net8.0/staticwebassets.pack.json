@@ -1,0 +1,1881 @@
+{
+  "Files": [
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/obj/Release/net8.0/scopedcss/projectbundle/Shop.Front.bundle.scp.css",
+      "PackagePath": "staticwebassets/Shop.Front.bundle.scp.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/License.txt",
+      "PackagePath": "staticwebassets/License.txt"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/README.txt",
+      "PackagePath": "staticwebassets/README.txt"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/css/mdb.dark.min.css",
+      "PackagePath": "staticwebassets/css/mdb.dark.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/css/mdb.dark.min.css.map",
+      "PackagePath": "staticwebassets/css/mdb.dark.min.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/css/mdb.dark.rtl.min.css",
+      "PackagePath": "staticwebassets/css/mdb.dark.rtl.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/css/mdb.min.css",
+      "PackagePath": "staticwebassets/css/mdb.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/css/mdb.min.css.map",
+      "PackagePath": "staticwebassets/css/mdb.min.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/css/mdb.rtl.min.css",
+      "PackagePath": "staticwebassets/css/mdb.rtl.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/img/mdb-favicon.ico",
+      "PackagePath": "staticwebassets/img/mdb-favicon.ico"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/js/auth.session.js",
+      "PackagePath": "staticwebassets/js/auth.session.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/js/login.session.js",
+      "PackagePath": "staticwebassets/js/login.session.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/js/logout.session.js",
+      "PackagePath": "staticwebassets/js/logout.session.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/js/mdb.es.min.js",
+      "PackagePath": "staticwebassets/js/mdb.es.min.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/js/mdb.es.min.js.map",
+      "PackagePath": "staticwebassets/js/mdb.es.min.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/js/mdb.umd.min.js",
+      "PackagePath": "staticwebassets/js/mdb.umd.min.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/js/mdb.umd.min.js.map",
+      "PackagePath": "staticwebassets/js/mdb.umd.min.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/js/product.session.js",
+      "PackagePath": "staticwebassets/js/product.session.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/package-lock.json",
+      "PackagePath": "staticwebassets/package-lock.json"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/package.json",
+      "PackagePath": "staticwebassets/package.json"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/autoinit/callbacks/free.js",
+      "PackagePath": "staticwebassets/src/js/autoinit/callbacks/free.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/autoinit/index.free.js",
+      "PackagePath": "staticwebassets/src/js/autoinit/index.free.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/autoinit/init.js",
+      "PackagePath": "staticwebassets/src/js/autoinit/init.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/autoinit/initSelectors/free.js",
+      "PackagePath": "staticwebassets/src/js/autoinit/initSelectors/free.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/alert.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/alert.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/alert.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/alert.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/base-component.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/base-component.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/base-component.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/base-component.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/button.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/button.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/button.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/button.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/carousel.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/carousel.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/carousel.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/carousel.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/collapse.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/collapse.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/collapse.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/collapse.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/dom/data.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/dom/data.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/dom/data.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/dom/data.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/dom/event-handler.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/dom/event-handler.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/dom/event-handler.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/dom/event-handler.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/dom/manipulator.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/dom/manipulator.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/dom/manipulator.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/dom/manipulator.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/dom/selector-engine.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/dom/selector-engine.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/dom/selector-engine.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/dom/selector-engine.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/dropdown.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/dropdown.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/dropdown.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/dropdown.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/modal.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/modal.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/modal.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/modal.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/offcanvas.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/offcanvas.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/offcanvas.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/offcanvas.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/popover.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/popover.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/popover.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/popover.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/scrollspy.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/scrollspy.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/scrollspy.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/scrollspy.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/tab.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/tab.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/tab.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/tab.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/toast.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/toast.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/toast.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/toast.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/tooltip.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/tooltip.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/tooltip.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/tooltip.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/backdrop.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/backdrop.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/backdrop.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/backdrop.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/component-functions.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/component-functions.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/component-functions.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/component-functions.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/config.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/config.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/config.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/config.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/focustrap.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/focustrap.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/focustrap.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/focustrap.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/index.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/index.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/index.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/index.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/sanitizer.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/sanitizer.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/sanitizer.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/sanitizer.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/scrollbar.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/scrollbar.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/scrollbar.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/scrollbar.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/swipe.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/swipe.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/swipe.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/swipe.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/template-factory.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/template-factory.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/dist/util/template-factory.js.map",
+      "PackagePath": "staticwebassets/src/js/bootstrap/dist/util/template-factory.js.map"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/alert.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/alert.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/base-component.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/base-component.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/button.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/button.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/carousel.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/carousel.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/collapse.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/collapse.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/dom/data.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/dom/data.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/dom/event-handler.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/dom/event-handler.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/dom/manipulator.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/dom/manipulator.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/dom/selector-engine.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/dom/selector-engine.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/dropdown.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/dropdown.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/modal.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/modal.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/offcanvas.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/offcanvas.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/popover.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/popover.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/scrollspy.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/scrollspy.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/tab.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/tab.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/toast.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/toast.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/tooltip.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/tooltip.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/util/backdrop.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/util/backdrop.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/util/component-functions.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/util/component-functions.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/util/config.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/util/config.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/util/focustrap.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/util/focustrap.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/util/index.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/util/index.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/util/sanitizer.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/util/sanitizer.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/util/scrollbar.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/util/scrollbar.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/util/swipe.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/util/swipe.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/mdb-prefix/util/template-factory.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/mdb-prefix/util/template-factory.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/alert.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/alert.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/base-component.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/base-component.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/button.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/button.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/carousel.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/carousel.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/collapse.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/collapse.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/dom/data.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/dom/data.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/dom/event-handler.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/dom/event-handler.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/dom/manipulator.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/dom/manipulator.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/dom/selector-engine.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/dom/selector-engine.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/dropdown.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/dropdown.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/modal.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/modal.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/offcanvas.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/offcanvas.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/popover.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/popover.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/scrollspy.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/scrollspy.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/tab.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/tab.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/toast.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/toast.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/tooltip.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/tooltip.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/util/backdrop.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/util/backdrop.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/util/component-functions.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/util/component-functions.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/util/config.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/util/config.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/util/focustrap.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/util/focustrap.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/util/index.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/util/index.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/util/sanitizer.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/util/sanitizer.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/util/scrollbar.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/util/scrollbar.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/util/swipe.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/util/swipe.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/bootstrap/src/util/template-factory.js",
+      "PackagePath": "staticwebassets/src/js/bootstrap/src/util/template-factory.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/alert.js",
+      "PackagePath": "staticwebassets/src/js/free/alert.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/base-component.js",
+      "PackagePath": "staticwebassets/src/js/free/base-component.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/button.js",
+      "PackagePath": "staticwebassets/src/js/free/button.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/carousel.js",
+      "PackagePath": "staticwebassets/src/js/free/carousel.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/collapse.js",
+      "PackagePath": "staticwebassets/src/js/free/collapse.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/dropdown.js",
+      "PackagePath": "staticwebassets/src/js/free/dropdown.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/input.js",
+      "PackagePath": "staticwebassets/src/js/free/input.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/modal.js",
+      "PackagePath": "staticwebassets/src/js/free/modal.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/popover.js",
+      "PackagePath": "staticwebassets/src/js/free/popover.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/range.js",
+      "PackagePath": "staticwebassets/src/js/free/range.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/ripple.js",
+      "PackagePath": "staticwebassets/src/js/free/ripple.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/scrollspy.js",
+      "PackagePath": "staticwebassets/src/js/free/scrollspy.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/tab.js",
+      "PackagePath": "staticwebassets/src/js/free/tab.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/toast.js",
+      "PackagePath": "staticwebassets/src/js/free/toast.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/free/tooltip.js",
+      "PackagePath": "staticwebassets/src/js/free/tooltip.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb.free.es.js",
+      "PackagePath": "staticwebassets/src/js/mdb.free.es.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb.free.umd.js",
+      "PackagePath": "staticwebassets/src/js/mdb.free.umd.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/dom/data.js",
+      "PackagePath": "staticwebassets/src/js/mdb/dom/data.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/dom/event-handler.js",
+      "PackagePath": "staticwebassets/src/js/mdb/dom/event-handler.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/dom/manipulator.js",
+      "PackagePath": "staticwebassets/src/js/mdb/dom/manipulator.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/dom/selector-engine.js",
+      "PackagePath": "staticwebassets/src/js/mdb/dom/selector-engine.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/handlers/click-rail.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/handlers/click-rail.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/handlers/drag-thumb.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/handlers/drag-thumb.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/handlers/keyboard.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/handlers/keyboard.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/handlers/mouse-wheel.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/handlers/mouse-wheel.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/handlers/touch.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/handlers/touch.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/index.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/index.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/lib/class-names.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/lib/class-names.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/lib/css.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/lib/css.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/lib/dom.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/lib/dom.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/lib/event-manager.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/lib/event-manager.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/lib/util.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/lib/util.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/process-scroll-diff.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/process-scroll-diff.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/perfect-scrollbar/update-geometry.js",
+      "PackagePath": "staticwebassets/src/js/mdb/perfect-scrollbar/update-geometry.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/util/focusTrap.js",
+      "PackagePath": "staticwebassets/src/js/mdb/util/focusTrap.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/util/index.js",
+      "PackagePath": "staticwebassets/src/js/mdb/util/index.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/util/keycodes.js",
+      "PackagePath": "staticwebassets/src/js/mdb/util/keycodes.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/util/sanitizer.js",
+      "PackagePath": "staticwebassets/src/js/mdb/util/sanitizer.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/util/scrollbar.js",
+      "PackagePath": "staticwebassets/src/js/mdb/util/scrollbar.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/util/stack.js",
+      "PackagePath": "staticwebassets/src/js/mdb/util/stack.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/util/touch/index.js",
+      "PackagePath": "staticwebassets/src/js/mdb/util/touch/index.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/util/touch/swipe.js",
+      "PackagePath": "staticwebassets/src/js/mdb/util/touch/swipe.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/js/mdb/util/touch/touchUtil.js",
+      "PackagePath": "staticwebassets/src/js/mdb/util/touch/touchUtil.js"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_accordion.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_accordion.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_alert.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_alert.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_badge.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_badge.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_breadcrumb.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_button-group.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_button-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_buttons.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_buttons.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_card.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_card.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_carousel.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_carousel.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_close.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_close.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_containers.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_containers.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_dropdown.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_dropdown.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_forms.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_forms.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_functions.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_functions.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_grid.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_grid.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_helpers.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_helpers.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_images.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_images.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_list-group.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_list-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_maps.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_maps.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_mixins.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_mixins.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_modal.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_modal.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_nav.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_nav.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_navbar.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_navbar.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_offcanvas.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_offcanvas.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_pagination.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_pagination.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_placeholders.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_placeholders.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_popover.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_popover.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_progress.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_progress.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_reboot.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_reboot.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_root.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_root.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_spinners.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_spinners.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_tables.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_tables.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_toasts.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_toasts.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_tooltip.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_tooltip.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_transitions.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_transitions.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_type.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_type.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_utilities.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_utilities.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_variables-dark.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_variables-dark.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/_variables.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/_variables.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/bootstrap.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/bootstrap.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/forms/_form-check.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/forms/_form-control.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/forms/_form-range.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/forms/_form-select.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/forms/_form-text.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/forms/_input-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/forms/_labels.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/forms/_labels.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/forms/_validation.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/forms/_validation.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_color-bg.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_color-bg.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_focus-ring.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_focus-ring.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_icon-link.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_icon-link.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_position.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_position.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_stacks.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_stacks.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/helpers/_vr.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/helpers/_vr.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_alert.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_backdrop.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_backdrop.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_banner.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_banner.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_caret.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_color-mode.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_color-mode.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_container.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_container.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_forms.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_grid.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_image.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_image.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_lists.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_resize.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_transition.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/utilities/_api.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/utilities/_api.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap-rtl-fix/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap-rtl-fix/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_accordion.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_accordion.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_alert.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_badge.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_breadcrumb.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_button-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_card.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_containers.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_containers.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_dropdown.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_functions.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_helpers.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_helpers.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_images.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_maps.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_maps.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_modal.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_nav.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_offcanvas.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_offcanvas.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_placeholders.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_placeholders.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_popover.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_progress.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_reboot.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_root.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_spinners.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_toasts.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_transitions.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_variables-dark.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_variables-dark.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/bootstrap.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/forms/_form-check.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/forms/_form-control.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/forms/_form-range.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/forms/_form-select.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/forms/_form-text.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/forms/_input-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/forms/_labels.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/forms/_labels.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/forms/_validation.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/forms/_validation.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_color-bg.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_color-bg.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_focus-ring.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_focus-ring.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_icon-link.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_icon-link.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_position.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_position.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_stacks.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_stacks.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/helpers/_vr.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/helpers/_vr.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_alert.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_backdrop.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_backdrop.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_banner.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_banner.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_caret.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_color-mode.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_color-mode.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_container.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_container.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_lists.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_transition.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/utilities/_api.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/utilities/_api.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/src/scss/bootstrap/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/custom/_styles.scss",
+      "PackagePath": "staticwebassets/src/scss/custom/_styles.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/custom/_variables.scss",
+      "PackagePath": "staticwebassets/src/scss/custom/_variables.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_accordion.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_accordion.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_alert.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_alert.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_badge.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_badge.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_breadcrumb.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_button-group.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_button-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_buttons.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_buttons.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_card.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_card.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_carousel.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_carousel.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_close.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_close.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_colors.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_colors.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_deprecated.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_deprecated.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_dropdown.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_dropdown.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_flag.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_flag.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_functions.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_functions.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_images.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_images.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_list-group.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_list-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_mixins.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_mixins.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_modal.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_modal.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_nav.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_nav.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_navbar.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_navbar.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_pagination.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_pagination.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_popover.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_popover.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_progress.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_progress.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_range.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_range.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_reboot.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_reboot.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_ripple.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_ripple.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_root.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_root.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_scrollspy.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_scrollspy.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_shadows.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_shadows.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_tables.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_tables.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_toasts.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_toasts.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_tooltip.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_tooltip.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_type.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_type.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_utilities.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_utilities.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_variables-dark.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_variables-dark.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/_variables.scss",
+      "PackagePath": "staticwebassets/src/scss/free/_variables.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/src/scss/free/forms/_form-check.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/src/scss/free/forms/_form-control.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/forms/_form-file.scss",
+      "PackagePath": "staticwebassets/src/scss/free/forms/_form-file.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/src/scss/free/forms/_form-range.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/src/scss/free/forms/_form-select.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/src/scss/free/forms/_input-group.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/forms/_validation.scss",
+      "PackagePath": "staticwebassets/src/scss/free/forms/_validation.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/src/scss/free/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/mixins/_color-mode.scss",
+      "PackagePath": "staticwebassets/src/scss/free/mixins/_color-mode.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/mixins/_ripple.scss",
+      "PackagePath": "staticwebassets/src/scss/free/mixins/_ripple.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/free/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/src/scss/free/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/src/scss/mdb.free.scss",
+      "PackagePath": "staticwebassets/src/scss/mdb.free.scss"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.Shop.Front.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.Shop.Front.props",
+      "PackagePath": "build\\Shop.Front.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.Shop.Front.props",
+      "PackagePath": "buildMultiTargeting\\Shop.Front.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.Shop.Front.props",
+      "PackagePath": "buildTransitive\\Shop.Front.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

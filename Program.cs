@@ -38,5 +38,4 @@ app.UseEndpoints(endpoints =>
         pattern: "{controller=Login}/{action=Login}");
 });
 
-app.Run();
-
+app.Run("http://*:5039"); // Configure the application to listen on port 5039

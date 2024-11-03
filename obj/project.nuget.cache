@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZ1/7taTmK9KQI+puzThJJ5fp1uzrOdQju4EObC2jiFGgozLKWMK7TnkDCllapxe4fg2stTnRtp2Rw8dPyBzgQ==",
+  "dgSpecHash": "C8rahdzpoX7Qwh98mNbhsk9pqYyg+sDITXp/orv3mzFTF+nH3SeYL+xpHdlnEV5Zuy6dmb5qCa5Ey6oly+2ICw==",
   "success": true,
-  "projectFilePath": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Shop.Front.csproj",
+  "projectFilePath": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/Shop.Front/Shop.Front.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

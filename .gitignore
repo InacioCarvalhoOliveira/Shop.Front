@@ -4,3 +4,7 @@ Shop.Front/bin
 Middleware/private-key.pem
 Middleware/certificate.pem
 Middleware/certificate.csr
+appsettings.Development.json
+appsettings.json
+Shop.Front.csproj
+Shop.Front.sln

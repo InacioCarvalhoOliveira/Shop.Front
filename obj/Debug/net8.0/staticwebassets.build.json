@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fcHbUsYT3pD+lJ8ATowtFTXhBpdnhQ2clHsbbuw0eVg=",
+  "Hash": "j1OQDUTWXNZFDXIp4BxAyxRJz0vxJ7UPA55Gir33E/A=",
   "Source": "Shop.Front",
   "BasePath": "_content/Shop.Front",
   "Mode": "Default",
@@ -395,25 +395,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/product.session.js"
-    },
-    {
-      "Identity": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/js/user.list.js",
-      "SourceId": "Shop.Front",
-      "SourceType": "Discovered",
-      "ContentRoot": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/",
-      "BasePath": "_content/Shop.Front",
-      "RelativePath": "js/user.list.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/user.list.js"
     },
     {
       "Identity": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",

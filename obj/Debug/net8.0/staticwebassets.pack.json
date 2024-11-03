@@ -85,10 +85,6 @@
       "PackagePath": "staticwebassets/js/product.session.js"
     },
     {
-      "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/js/user.list.js",
-      "PackagePath": "staticwebassets/js/user.list.js"
-    },
-    {
       "Id": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Shop.Front.csproj": {}
+    "/media/inacio/HDD2/Cursos/DOTNET/Webapi/Shop.Front/Shop.Front.csproj": {}
   },
   "projects": {
-    "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Shop.Front.csproj": {
+    "/media/inacio/HDD2/Cursos/DOTNET/Webapi/Shop.Front/Shop.Front.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Shop.Front.csproj",
+        "projectUniqueName": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/Shop.Front/Shop.Front.csproj",
         "projectName": "Shop.Front",
-        "projectPath": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/Shop.Front.csproj",
+        "projectPath": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/Shop.Front/Shop.Front.csproj",
         "packagesPath": "/home/inacio/.nuget/packages/",
-        "outputPath": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/AspNetCore.Front/Shop.Front/obj/",
+        "outputPath": "/media/inacio/HDD2/Cursos/DOTNET/Webapi/Shop.Front/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/inacio/.nuget/NuGet/NuGet.Config"
